@@ -1,4 +1,4 @@
-# 👨‍🚀 RickFeR
+# 🏋🏼‍♂️ RickFeR
 
 **`Digital Pump 💪 (Developer)`**
 
