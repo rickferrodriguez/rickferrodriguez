@@ -1,4 +1,10 @@
-# 👨‍🚀Hi there 👋
+# 👨‍🚀 RickFeR
+
+**`Digital Pump 💪 (Developer)`**
+
+Soy un desarrollador full-stack que construye su propia versión de un mundo digital. Todos los proyectos han sido desarrollados desde cero, desde la identificación
+de problemas reales, planeacion y codificación. Sin embargo, todos estos en ciertos apartados brindan un mensaje al usuario para que cuiden de su salud física 
+y mental. Yo publico todos estos proyectos en mi página web  "link", espero que te guste.
 
 <!--
 
