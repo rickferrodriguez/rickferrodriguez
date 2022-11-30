@@ -23,5 +23,5 @@ y mental. Yo publico todos estos proyectos en mi página web  "link", espero que
 
 #
 
-- 🌱 I’m currently learning TypeTypeScript
+- 🌱 Actualmente estoy estudiando TypeTypeScript
 - 📫 [Contacta conmigo](mailto:richardfernandorodriguez@gmail.com)
