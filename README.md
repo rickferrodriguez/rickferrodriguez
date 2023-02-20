@@ -18,7 +18,7 @@ y mental. Yo publico todos estos proyectos en mi página web  "link", espero que
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448236/linux.svg" />
-<img src="https://simpleicons.org/icons/neovim.svg" width="30" alt="Neovim icon">
+<img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="30" alt="Neovim icon">
 <br />
 
 #
