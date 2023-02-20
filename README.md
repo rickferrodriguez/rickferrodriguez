@@ -16,7 +16,7 @@ y mental. Yo publico todos estos proyectos en mi página web  "link", espero que
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="github"style="padding-right:10px;" src="https://fontawesome.com/v5.15/icons/github.svg" width="30" alt="GitHub icon">
+<img align="left" style="padding-right:10px;" src="https://fontawesome.com/v5.15/icons/github.svg" width="30" alt="GitHub icon">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448236/linux.svg" />
 <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" width="25px" alt="Neovim icon">
 <br />
